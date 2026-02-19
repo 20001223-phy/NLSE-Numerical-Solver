@@ -1,2 +1,2 @@
 # NLSE-Numerical-Solver
-Numerical implementation of the Nonlinear Schrödinger Equation (NLSE) for modeling wave envelope evolution in dispersive media using Python.
+Numerical analysis of Bright Envelope Solitons and Modulational Instability (MI) in dispersive media. Demonstrates Multiple Scale Perturbation Theory applications in nonlinear plasma dynamics.
